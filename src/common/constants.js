@@ -6,7 +6,7 @@ const appConstants={
     },
     search:{
         types:{
-            post: "post",
+            post: "number",
             name: "name",
         }
 
