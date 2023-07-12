@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": "+79871234567",
+      "name": "masha",
+      "favorite": true
+    },
+    {
+
+      "id": "+79371234567",
+      "name": "vasya",
+      "favorite": true
+    },
+    {
+      "id": "+79271234567",
+      "name": "petya",
+      "favorite": false
+    }
+  ]
+}

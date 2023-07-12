@@ -1,0 +1,11 @@
+// for install packages
+npm i
+
+//for install server
+npm install -g json-server
+
+//start front
+npm run start
+
+// start back
+ json-server --watch db.json
